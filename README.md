@@ -1,0 +1,1 @@
+This repository contains a simple C program that highlights a potential pitfall related to the post-increment operator. The program demonstrates how the order of evaluation and operator precedence can lead to unexpected results if not understood correctly. The solution provides a corrected version that clarifies the behavior.
