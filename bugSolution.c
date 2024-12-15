@@ -1,0 +1,1 @@
+int main() { int x = 10; int y = x++; //Assigning the original value of x to y. printf("%d\n", y); //Prints 10 printf("%d\n", x); //Prints 11 return 0; }
